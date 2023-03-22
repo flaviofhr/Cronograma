@@ -85,6 +85,7 @@
     border: 2px solid #A78BFA;
     border-radius: 8px;
   }
+  
   @media (max-width: 570px) {
     button div {
       display: none;
